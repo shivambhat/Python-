@@ -1,0 +1,10 @@
+table=int(input("enter mul table"))
+def mul(n):
+    for i in range(1,11):
+        
+        print(n, 'x', i, '=' ,n*i)
+          
+        
+n=10
+mul(table)
+    
